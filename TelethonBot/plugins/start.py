@@ -22,7 +22,7 @@ async def ex(event):
     
 
 
-LOG_CHANNEL = int(udB.get("LOG_CHANNEL"))
+LOG_CHANNEL = int(udB.get("-1001721823512"))
 KEY = "FILESHARE_DB"
 
 
